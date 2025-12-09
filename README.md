@@ -1,6 +1,6 @@
 # GenAI Document Intelligence & QA System
 
-Enterprise-style GenAI project with:
+GenAI project with:
 - Spring Boot (Main Backend)
 - FastAPI + Hugging Face (GenAI Microservice)
 - ChromaDB (Vector Database)
@@ -9,8 +9,8 @@ Enterprise-style GenAI project with:
 - Docker & CI/CD (Planned)
 
 ## Current Status
-✅ Basic LLM Chat API using Hugging Face  
-🚧 PDF Upload & RAG in progress
+(Done) Basic LLM Chat API using Hugging Face  
+(Under Progress) PDF Upload & RAG in progress
 
 ## How to Run (GenAI Service)
 ```bash
